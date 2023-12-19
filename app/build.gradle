@@ -13,10 +13,6 @@ plugins {
 repositories {
     // Use Maven Central for resolving dependencies.
     mavenCentral()
-		
-    testit {
-        url "https://github.com/osparking/JUnit5withGradle"
-    }
 }
 
 dependencies {
