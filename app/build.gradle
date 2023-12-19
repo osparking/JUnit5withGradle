@@ -6,6 +6,8 @@
  */
 
 plugins {
+    // 자바에 대한 지원을 더하기 위해 적용한다.
+    id 'java'
     // Apply the application plugin to add support for building a CLI application in Java.
     id 'application'
 }
